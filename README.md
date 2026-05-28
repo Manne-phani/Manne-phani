@@ -5,4 +5,5 @@ Hi, I'm Manne phani - I am a btech first year student 👋
 
 
 Tech
+
 Python,  React, JavaScript, HTML/CSS, SQL,
